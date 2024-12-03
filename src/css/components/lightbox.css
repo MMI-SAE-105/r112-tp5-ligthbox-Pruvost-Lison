@@ -19,5 +19,7 @@ dialog#lightbox img {
     transition: transform 0.3s ease;
 }
 
-
+dialog#lightbox img:hover {
+    transform: scale(1.05);
+}
 
