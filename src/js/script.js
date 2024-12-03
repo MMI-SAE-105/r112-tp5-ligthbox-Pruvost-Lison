@@ -11,3 +11,8 @@ document.querySelectorAll("ul img").forEach(thumbnail => {
     };
 });
 
+lightbox.addEventListener("click", (e) => {
+    if (e.target === lightbox) {
+        lightbox.close();
+    }
+});
