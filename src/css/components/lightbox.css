@@ -1,3 +1,13 @@
 /**
 * Lightbox
 */
+dialog#lightbox {
+    border: none;
+    padding: 20px;
+    background: white;
+    max-width: 90vw;
+    max-height: 90vh;
+    border-radius: 20px;
+    box-shadow: 0 0 0 10px white, 0 0 0 12px darkblue;
+}
+
