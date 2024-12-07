@@ -8,7 +8,7 @@ dialog#lightbox {
     max-width: 90vw;
     max-height: 90vh;
     border-radius: 20px;
-    box-shadow: 0 0 0 10px white, 0 0 0 12px darkblue;
+    border: 1px sold darkblue ;
 }
 
 dialog#lightbox img:hover {
